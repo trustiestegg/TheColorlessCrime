@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"on the ground",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"on the edge",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"on the run",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "THE COLOR BANK - VS. THE MONOCHROME MUGGERS",
+	"weekName": "Color Bank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
